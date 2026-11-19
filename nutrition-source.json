@@ -1,0 +1,1262 @@
+[
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 6,
+    "name": "Завтрак \"Как дома\"",
+    "portion": 400.0,
+    "fat": 36.0,
+    "protein": 34.0,
+    "carbs": 28.0,
+    "kcal": 570.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 7,
+    "name": "Завтрак \"Сытный\"",
+    "portion": 280.0,
+    "fat": 23.0,
+    "protein": 27.0,
+    "carbs": 32.0,
+    "kcal": 440.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 8,
+    "name": "Шакшука",
+    "portion": 380.0,
+    "fat": 18.0,
+    "protein": 21.0,
+    "carbs": 40.0,
+    "kcal": 410.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 9,
+    "name": "Драники с форелью и яйцом-пашот",
+    "portion": 400.0,
+    "fat": 21.0,
+    "protein": 28.0,
+    "carbs": 107.0,
+    "kcal": 730.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 10,
+    "name": "Оладушки \"Как у бабушки\" с форелью",
+    "portion": 190.0,
+    "fat": 18.0,
+    "protein": 26.0,
+    "carbs": 89.0,
+    "kcal": 620.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 11,
+    "name": "Бутерброд \"Как в детстве\"",
+    "portion": 290.0,
+    "fat": 23.0,
+    "protein": 24.0,
+    "carbs": 50.0,
+    "kcal": 500.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 53,
+    "name": "Блинчики с курицей",
+    "portion": 250.0,
+    "fat": 61.5,
+    "protein": 28.5,
+    "carbs": 50.0,
+    "kcal": 867.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 54,
+    "name": "Блинчики с языком",
+    "portion": 250.0,
+    "fat": 44.0,
+    "protein": 26.0,
+    "carbs": 52.0,
+    "kcal": 710.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 12,
+    "name": "Блинчики с грушей",
+    "portion": 200.0,
+    "fat": 28.0,
+    "protein": 12.0,
+    "carbs": 71.0,
+    "kcal": 590.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 16,
+    "name": "Каша овсяная на воде",
+    "portion": 350.0,
+    "fat": 8.5,
+    "protein": 5.5,
+    "carbs": 50.0,
+    "kcal": 300.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 17,
+    "name": "Каша овсяная на кокосовом молоке",
+    "portion": 350.0,
+    "fat": 11.0,
+    "protein": 8.0,
+    "carbs": 59.0,
+    "kcal": 370.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 18,
+    "name": "Каша овсяная на молоке",
+    "portion": 350.0,
+    "fat": 13.0,
+    "protein": 11.0,
+    "carbs": 59.0,
+    "kcal": 400.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 20,
+    "name": "Каша рисовая на кокосовом молоке",
+    "portion": 350.0,
+    "fat": 9.5,
+    "protein": 11.0,
+    "carbs": 148.0,
+    "kcal": 720.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 21,
+    "name": "Каша рисовая на молоке",
+    "portion": 350.0,
+    "fat": 11.0,
+    "protein": 13.0,
+    "carbs": 148.0,
+    "kcal": 750.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 22,
+    "name": "Вареники с вишней",
+    "portion": 230.0,
+    "fat": 11.0,
+    "protein": 11.0,
+    "carbs": 101.0,
+    "kcal": 550.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 23,
+    "name": "Сырники",
+    "portion": 210.0,
+    "fat": 16.5,
+    "protein": 19.0,
+    "carbs": 43.0,
+    "kcal": 398.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 29,
+    "name": "Ассорти сала",
+    "portion": 160.0,
+    "fat": 83.0,
+    "protein": 9.0,
+    "carbs": 28.0,
+    "kcal": 900.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 32,
+    "name": "Селедка с картофелем",
+    "portion": 270.0,
+    "fat": 38.0,
+    "protein": 16.0,
+    "carbs": 50.0,
+    "kcal": 610.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 33,
+    "name": "Холодец",
+    "portion": 230.0,
+    "fat": 18.0,
+    "protein": 27.0,
+    "carbs": 6.5,
+    "kcal": 290.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 34,
+    "name": "Закуска для настоящего мужчины",
+    "portion": 145.0,
+    "fat": 26.0,
+    "protein": 33.0,
+    "carbs": 4.5,
+    "kcal": 390.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 35,
+    "name": "Грибной дуэт",
+    "portion": 200.0,
+    "fat": 25.0,
+    "protein": 3.5,
+    "carbs": 6.0,
+    "kcal": 260.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 36,
+    "name": "Соленья под крепкое",
+    "portion": 350.0,
+    "fat": 10.0,
+    "protein": 3.5,
+    "carbs": 15.0,
+    "kcal": 170.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 37,
+    "name": "Намазки рыбные \"На зубок\"",
+    "portion": 90.0,
+    "fat": 14.0,
+    "protein": 7.5,
+    "carbs": 15.0,
+    "kcal": 220.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 40,
+    "name": "Джерки из говядины",
+    "portion": 30.0,
+    "fat": 6.5,
+    "protein": 10.0,
+    "carbs": 0.4,
+    "kcal": 100.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 41,
+    "name": "Джерки из индейки",
+    "portion": 30.0,
+    "fat": 1.0,
+    "protein": 10.0,
+    "carbs": 0.4,
+    "kcal": 55.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 43,
+    "name": "Креветки северные",
+    "portion": 200.0,
+    "fat": 2.0,
+    "protein": 41.0,
+    "carbs": 2.5,
+    "kcal": 190.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 44,
+    "name": "Скумбрия копченая",
+    "portion": 330.0,
+    "fat": 50.0,
+    "protein": 66.0,
+    "carbs": 0.0,
+    "kcal": 710.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 45,
+    "name": "Сом копченый",
+    "portion": 170.0,
+    "fat": 14.0,
+    "protein": 37.0,
+    "carbs": 0.0,
+    "kcal": 270.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 47,
+    "name": "Корюшка",
+    "portion": 50.0,
+    "fat": 3.5,
+    "protein": 15.0,
+    "carbs": 0.1,
+    "kcal": 90.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 48,
+    "name": "Гренки ржаные",
+    "portion": 185.0,
+    "fat": 33.0,
+    "protein": 6.5,
+    "carbs": 44.0,
+    "kcal": 500.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 49,
+    "name": "Сухарики к пиву",
+    "portion": 20.0,
+    "fat": 1.0,
+    "protein": 1.5,
+    "carbs": 11.0,
+    "kcal": 60.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 50,
+    "name": "Арахис к пиву",
+    "portion": 20.0,
+    "fat": 6.5,
+    "protein": 4.0,
+    "carbs": 2.0,
+    "kcal": 85.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 53,
+    "name": "Блинчики с курицей",
+    "portion": 250.0,
+    "fat": 61.5,
+    "protein": 28.5,
+    "carbs": 50.0,
+    "kcal": 867.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 54,
+    "name": "Блинчики с языком",
+    "portion": 250.0,
+    "fat": 44.0,
+    "protein": 26.0,
+    "carbs": 52.0,
+    "kcal": 710.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 52,
+    "name": "Драники со сметаной",
+    "portion": 140.0,
+    "fat": 12.0,
+    "protein": 4.0,
+    "carbs": 31.0,
+    "kcal": 250.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 56,
+    "name": "Барабулька \"Волжанин в Сочи\"",
+    "portion": 250.0,
+    "fat": 21.0,
+    "protein": 48.0,
+    "carbs": 19.0,
+    "kcal": 460.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 58,
+    "name": "Жареха со шкварками",
+    "portion": 370.0,
+    "fat": 35.0,
+    "protein": 6.5,
+    "carbs": 58.0,
+    "kcal": 580.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 57,
+    "name": "Жареха с грибами",
+    "portion": 370.0,
+    "fat": 11.0,
+    "protein": 7.5,
+    "carbs": 59.0,
+    "kcal": 370.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 59,
+    "name": "Картофель фри",
+    "portion": 150.0,
+    "fat": 53.0,
+    "protein": 6.0,
+    "carbs": 74.0,
+    "kcal": 792.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 60,
+    "name": "Раки 1кг",
+    "portion": 1000.0,
+    "fat": 8.5,
+    "protein": 192.0,
+    "carbs": 32.0,
+    "kcal": 970.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 75,
+    "name": "Борщ",
+    "portion": 530.0,
+    "fat": 37.0,
+    "protein": 26.0,
+    "carbs": 47.0,
+    "kcal": 620.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 76,
+    "name": "Уха из четырех видов рыб",
+    "portion": 290.0,
+    "fat": 8.5,
+    "protein": 17.0,
+    "carbs": 35.0,
+    "kcal": 280.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 77,
+    "name": "Солянка",
+    "portion": 460.0,
+    "fat": 26.0,
+    "protein": 28.0,
+    "carbs": 29.0,
+    "kcal": 470.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 78,
+    "name": "Суп-лапша куриная",
+    "portion": 410.0,
+    "fat": 11.0,
+    "protein": 24.0,
+    "carbs": 15.0,
+    "kcal": 250.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 63,
+    "name": "Нисуаз по-волжски",
+    "portion": 250.0,
+    "fat": 30.0,
+    "protein": 11.0,
+    "carbs": 20.0,
+    "kcal": 390.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 64,
+    "name": "Под шубой",
+    "portion": 200.0,
+    "fat": 35.0,
+    "protein": 8.5,
+    "carbs": 15.0,
+    "kcal": 410.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 65,
+    "name": "Оливье с бужениной",
+    "portion": 250.0,
+    "fat": 31.0,
+    "protein": 17.0,
+    "carbs": 17.0,
+    "kcal": 410.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 66,
+    "name": "Оливье с языком",
+    "portion": 250.0,
+    "fat": 35.0,
+    "protein": 25.0,
+    "carbs": 20.0,
+    "kcal": 490.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 67,
+    "name": "Крабовый",
+    "portion": 200.0,
+    "fat": 25.0,
+    "protein": 14.0,
+    "carbs": 34.0,
+    "kcal": 420.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 68,
+    "name": "Салат с дичайшей уткой",
+    "portion": 200.0,
+    "fat": 34.0,
+    "protein": 20.0,
+    "carbs": 5.5,
+    "kcal": 410.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 69,
+    "name": "Тещин язык",
+    "portion": 150.0,
+    "fat": 27.0,
+    "protein": 16.0,
+    "carbs": 4.5,
+    "kcal": 320.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 70,
+    "name": "Рябушка",
+    "portion": 200.0,
+    "fat": 20.0,
+    "protein": 18.0,
+    "carbs": 10.0,
+    "kcal": 300.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 71,
+    "name": "Зеленый салат",
+    "portion": 220.0,
+    "fat": 23.0,
+    "protein": 4.5,
+    "carbs": 9.0,
+    "kcal": 260.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 80,
+    "name": "Судак с чипсами",
+    "portion": 230.0,
+    "fat": 24.0,
+    "protein": 24.0,
+    "carbs": 14.0,
+    "kcal": 360.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 81,
+    "name": "Шашлычки из сома с перлотто",
+    "portion": 290.0,
+    "fat": 27.0,
+    "protein": 26.0,
+    "carbs": 12.0,
+    "kcal": 350.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 82,
+    "name": "Котлеты из щуки и судака с овощами",
+    "portion": 310.0,
+    "fat": 16.0,
+    "protein": 80.0,
+    "carbs": 21.0,
+    "kcal": 554.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 83,
+    "name": "Котлеты рыбные с пюре",
+    "portion": 300.0,
+    "fat": 20.0,
+    "protein": 80.0,
+    "carbs": 38.0,
+    "kcal": 652.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 84,
+    "name": "Форель с томленой грушей",
+    "portion": 320.0,
+    "fat": 15.0,
+    "protein": 23.0,
+    "carbs": 32.0,
+    "kcal": 360.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 86,
+    "name": "Голубцы с судаком",
+    "portion": 350.0,
+    "fat": 26.0,
+    "protein": 15.0,
+    "carbs": 14.0,
+    "kcal": 350.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 88,
+    "name": "Буженина с картофелем",
+    "portion": 350.0,
+    "fat": 31.0,
+    "protein": 23.0,
+    "carbs": 43.0,
+    "kcal": 550.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 91,
+    "name": "Котлета пожарская",
+    "portion": 410.0,
+    "fat": 49.0,
+    "protein": 22.0,
+    "carbs": 54.0,
+    "kcal": 740.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 92,
+    "name": "Бефстроганов с пюре",
+    "portion": 340.0,
+    "fat": 22.0,
+    "protein": 20.0,
+    "carbs": 33.0,
+    "kcal": 410.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 93,
+    "name": "Утка с тыквой",
+    "portion": 270.0,
+    "fat": 36.0,
+    "protein": 39.0,
+    "carbs": 30.0,
+    "kcal": 600.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 94,
+    "name": "Котлета по-киевски",
+    "portion": 440.0,
+    "fat": 51.0,
+    "protein": 40.0,
+    "carbs": 36.0,
+    "kcal": 760.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 95,
+    "name": "Пельмени с мясом",
+    "portion": 270.0,
+    "fat": 16.0,
+    "protein": 22.0,
+    "carbs": 56.0,
+    "kcal": 450.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 96,
+    "name": "Куриные котлетки",
+    "portion": 300.0,
+    "fat": 17.0,
+    "protein": 23.0,
+    "carbs": 42.0,
+    "kcal": 413.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 60,
+    "name": "Раки 1кг",
+    "portion": 1000.0,
+    "fat": 8.5,
+    "protein": 192.0,
+    "carbs": 32.0,
+    "kcal": 970.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 78,
+    "name": "Саратовский калач",
+    "portion": 30.0,
+    "fat": 0.0,
+    "protein": 0.1,
+    "carbs": 1.5,
+    "kcal": 65.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 77,
+    "name": "Ртищевский штрудель",
+    "portion": 30.0,
+    "fat": 0.0,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "kcal": 55.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 76,
+    "name": "Лимончелло",
+    "portion": 30.0,
+    "fat": 0.0,
+    "protein": 0.0,
+    "carbs": 6.0,
+    "kcal": 75.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 79,
+    "name": "Свекольная хреновуха",
+    "portion": 30.0,
+    "fat": 0.0,
+    "protein": 0.0,
+    "carbs": 0.5,
+    "kcal": 60.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 81,
+    "name": "Смородина-базилик",
+    "portion": 30.0,
+    "fat": 0.0,
+    "protein": 0.1,
+    "carbs": 1.0,
+    "kcal": 55.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 75,
+    "name": "Крыжовник-малина",
+    "portion": 30.0,
+    "fat": 0.0,
+    "protein": 0.0,
+    "carbs": 0.3,
+    "kcal": 60.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 73,
+    "name": "Клубника-томат",
+    "portion": 30.0,
+    "fat": 0.0,
+    "protein": 0.0,
+    "carbs": 0.2,
+    "kcal": 60.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 74,
+    "name": "Клюква-имбирь",
+    "portion": 30.0,
+    "fat": 0.0,
+    "protein": 0.0,
+    "carbs": 1.5,
+    "kcal": 65.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 72,
+    "name": "Ананас-щавель",
+    "portion": 30.0,
+    "fat": 0.0,
+    "protein": 0.0,
+    "carbs": 5.5,
+    "kcal": 65.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 54,
+    "name": "Ваша Маша",
+    "portion": 350.0,
+    "fat": 1.0,
+    "protein": 2.0,
+    "carbs": 22.0,
+    "kcal": 210.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 57,
+    "name": "Ирочка",
+    "portion": 250.0,
+    "fat": 0.3,
+    "protein": 1.0,
+    "carbs": 50.0,
+    "kcal": 330.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 58,
+    "name": "Катюша",
+    "portion": 250.0,
+    "fat": 0.4,
+    "protein": 1.5,
+    "carbs": 53.0,
+    "kcal": 330.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 61,
+    "name": "Маргоша",
+    "portion": 300.0,
+    "fat": 0.0,
+    "protein": 0.2,
+    "carbs": 19.0,
+    "kcal": 240.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 69,
+    "name": "Юра",
+    "portion": 450.0,
+    "fat": 0.1,
+    "protein": 0.5,
+    "carbs": 34.0,
+    "kcal": 340.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 64,
+    "name": "Пристанский",
+    "portion": 300.0,
+    "fat": 0.1,
+    "protein": 0.2,
+    "carbs": 39.0,
+    "kcal": 280.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 70,
+    "name": "Яблочко от яблони",
+    "portion": 300.0,
+    "fat": 0.1,
+    "protein": 0.2,
+    "carbs": 21.0,
+    "kcal": 240.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 65,
+    "name": "Саратовский мул",
+    "portion": 450.0,
+    "fat": 0.2,
+    "protein": 0.5,
+    "carbs": 19.0,
+    "kcal": 190.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 67,
+    "name": "Синенький",
+    "portion": 300.0,
+    "fat": 0.1,
+    "protein": 0.5,
+    "carbs": 25.0,
+    "kcal": 210.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 68,
+    "name": "Смех-виски",
+    "portion": 300.0,
+    "fat": 0.2,
+    "protein": 1.0,
+    "carbs": 34.0,
+    "kcal": 340.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 53,
+    "name": "Белый Волжанин",
+    "portion": 200.0,
+    "fat": 5.0,
+    "protein": 1.5,
+    "carbs": 8.5,
+    "kcal": 190.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 59,
+    "name": "Лимонад для взрослых",
+    "portion": 300.0,
+    "fat": 0.0,
+    "protein": 0.1,
+    "carbs": 20.0,
+    "kcal": 210.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 60,
+    "name": "Лимонарий",
+    "portion": 300.0,
+    "fat": 0.2,
+    "protein": 0.5,
+    "carbs": 19.0,
+    "kcal": 160.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 66,
+    "name": "Сауэр ананас",
+    "portion": 300.0,
+    "fat": 0.1,
+    "protein": 0.2,
+    "carbs": 10.0,
+    "kcal": 150.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 52,
+    "name": "Апероль сприц",
+    "portion": 450.0,
+    "fat": 0.0,
+    "protein": 0.1,
+    "carbs": 1.0,
+    "kcal": 210.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 62,
+    "name": "Мохито \"Классик\"",
+    "portion": 350.0,
+    "fat": 0.2,
+    "protein": 1.0,
+    "carbs": 26.0,
+    "kcal": 220.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 63,
+    "name": "Мохито \"Мандарин\"",
+    "portion": 350.0,
+    "fat": 0.5,
+    "protein": 2.0,
+    "carbs": 34.0,
+    "kcal": 260.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 55,
+    "name": "Глинтвейн на белом вине",
+    "portion": 300.0,
+    "fat": 0.2,
+    "protein": 1.0,
+    "carbs": 28.0,
+    "kcal": 120.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 56,
+    "name": "Глинтвейн на красном вине",
+    "portion": 300.0,
+    "fat": 0.1,
+    "protein": 0.3,
+    "carbs": 19.0,
+    "kcal": 110.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 60,
+    "name": "Раки 1кг",
+    "portion": 1000.0,
+    "fat": 8.5,
+    "protein": 192.0,
+    "carbs": 32.0,
+    "kcal": 970.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 49,
+    "name": "Чай согревающий",
+    "portion": 650.0,
+    "fat": 0.3,
+    "protein": 1.0,
+    "carbs": 48.0,
+    "kcal": 200.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 47,
+    "name": "Чай облепиховый",
+    "portion": 650.0,
+    "fat": 4.0,
+    "protein": 1.0,
+    "carbs": 57.0,
+    "kcal": 270.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 50,
+    "name": "Чай ягодный",
+    "portion": 650.0,
+    "fat": 0.4,
+    "protein": 1.0,
+    "carbs": 42.0,
+    "kcal": 180.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 48,
+    "name": "Чай свежий",
+    "portion": 650.0,
+    "fat": 0.3,
+    "protein": 1.5,
+    "carbs": 40.0,
+    "kcal": 170.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 6,
+    "name": "Эспрессо",
+    "portion": 60.0,
+    "fat": 2.0,
+    "protein": 2.5,
+    "carbs": 1.0,
+    "kcal": 30.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 7,
+    "name": "Американо",
+    "portion": 200.0,
+    "fat": 2.0,
+    "protein": 2.5,
+    "carbs": 1.0,
+    "kcal": 30.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 8,
+    "name": "Капучино",
+    "portion": 200.0,
+    "fat": 5.5,
+    "protein": 6.0,
+    "carbs": 7.5,
+    "kcal": 100.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 9,
+    "name": "Капучино",
+    "portion": 400.0,
+    "fat": 9.0,
+    "protein": 10.0,
+    "carbs": 15.0,
+    "kcal": 180.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 12,
+    "name": "Латте",
+    "portion": 300.0,
+    "fat": 8.0,
+    "protein": 8.5,
+    "carbs": 12.0,
+    "kcal": 150.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 14,
+    "name": "Флет Уайт",
+    "portion": 200.0,
+    "fat": 7.0,
+    "protein": 6.5,
+    "carbs": 7.5,
+    "kcal": 120.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 16,
+    "name": "Раф классический",
+    "portion": 400.0,
+    "fat": 17.0,
+    "protein": 10.0,
+    "carbs": 37.0,
+    "kcal": 340.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 17,
+    "name": "Айс-американо",
+    "portion": 400.0,
+    "fat": 2.5,
+    "protein": 2.5,
+    "carbs": 1.0,
+    "kcal": 40.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 18,
+    "name": "Айс-латте",
+    "portion": 400.0,
+    "fat": 11.0,
+    "protein": 11.0,
+    "carbs": 14.0,
+    "kcal": 200.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 20,
+    "name": "Бамбл",
+    "portion": 300.0,
+    "fat": 3.0,
+    "protein": 3.0,
+    "carbs": 51.0,
+    "kcal": 240.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 24,
+    "name": "Волжаночка",
+    "portion": 300.0,
+    "fat": 6.0,
+    "protein": 5.5,
+    "carbs": 54.0,
+    "kcal": 290.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 26,
+    "name": "Лимонад классический",
+    "portion": 300.0,
+    "fat": 0.2,
+    "protein": 1.0,
+    "carbs": 31.0,
+    "kcal": 130.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 25,
+    "name": "Лимонад классический",
+    "portion": 1000.0,
+    "fat": 0.4,
+    "protein": 2.5,
+    "carbs": 89.0,
+    "kcal": 370.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 28,
+    "name": "Мохито классический",
+    "portion": 300.0,
+    "fat": 0.2,
+    "protein": 1.0,
+    "carbs": 26.0,
+    "kcal": 110.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 27,
+    "name": "Мохито классический",
+    "portion": 1000.0,
+    "fat": 0.5,
+    "protein": 2.0,
+    "carbs": 74.0,
+    "kcal": 310.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 30,
+    "name": "Мохито клубничный",
+    "portion": 300.0,
+    "fat": 0.4,
+    "protein": 1.5,
+    "carbs": 28.0,
+    "kcal": 120.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 29,
+    "name": "Мохито клубничный",
+    "portion": 1000.0,
+    "fat": 1.0,
+    "protein": 3.5,
+    "carbs": 69.0,
+    "kcal": 300.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 34,
+    "name": "Мохито мандариновый",
+    "portion": 300.0,
+    "fat": 0.5,
+    "protein": 2.0,
+    "carbs": 34.0,
+    "kcal": 150.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 33,
+    "name": "Мохито мандариновый",
+    "portion": 1000.0,
+    "fat": 1.0,
+    "protein": 4.5,
+    "carbs": 111.0,
+    "kcal": 470.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 36,
+    "name": "Морс",
+    "portion": 200.0,
+    "fat": 0.0,
+    "protein": 0.0,
+    "carbs": 16.0,
+    "kcal": 65.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 35,
+    "name": "Морс",
+    "portion": 1000.0,
+    "fat": 0.1,
+    "protein": 0.2,
+    "carbs": 82.0,
+    "kcal": 330.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 38,
+    "name": "Компот",
+    "portion": 200.0,
+    "fat": 0.0,
+    "protein": 0.4,
+    "carbs": 25.5,
+    "kcal": 105.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 37,
+    "name": "Компот",
+    "portion": 1000.0,
+    "fat": 0.0,
+    "protein": 2.0,
+    "carbs": 128.0,
+    "kcal": 520.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 40,
+    "name": "Апельсиновый фреш",
+    "portion": 300.0,
+    "fat": 1.0,
+    "protein": 4.5,
+    "carbs": 41.0,
+    "kcal": 190.0
+  },
+  {
+    "sheet": "БАР",
+    "excel_row": 44,
+    "name": "Сок в ассортименте",
+    "portion": 200.0,
+    "fat": 0.0,
+    "protein": 0.0,
+    "carbs": 26.0,
+    "kcal": 104.0
+  },
+  {
+    "sheet": "КУХНЯ",
+    "excel_row": 60,
+    "name": "Раки 1кг",
+    "portion": 1000.0,
+    "fat": 8.5,
+    "protein": 192.0,
+    "carbs": 32.0,
+    "kcal": 970.0
+  }
+]
